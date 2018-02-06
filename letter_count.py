@@ -18,4 +18,4 @@ def remove_item(list_item,to_remove):
         elif i != to_remove:
             new.append(i)
     return new
-print(remove_item([1,2,34,7,5],7))
+print(remove_item([1,2,34,7,5],7)) #remove item program
